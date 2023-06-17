@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("obs_autopilot")]
+[assembly: AssemblyTitle("OBS Autopilot")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("obs_autopilot")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
+[assembly: AssemblyProduct("OBS Autopilot")]
+[assembly: AssemblyCopyright("Copyright 2023 usagiga.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
